@@ -17,8 +17,36 @@ Este projeto é um **Dashboard de Vendas** desenvolvido com **Streamlit**, **Pyt
 - **Pandas**: Utilizada para manipulação de dados e agrupamento de informações.
 - **JSON**: Utilizado para carregar o conjunto de dados inicial.
 
-## Instalação
+## Estrutura do Projeto
+```
+├── app.py              # Arquivo principal da aplicação
+├── dataset.py          # Manipulação do dataset
+├── graficos.py         # Configuração dos gráficos
+├── utils.py            # Funções utilitárias
+├── dados/              # Pasta com os dados (vendas.json)
+├── requirements.txt    # Dependências do projeto
+└── README.md           # Este arquivo
+```
+
+## Como Configurar o Projeto
+
+Para executar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
-   ```bash
+```bash
+git clone https://github.com/htadmg/projeto_streamilt_dash.git
+```
+- Usando HTTPS:
+```bash
+git clone https://github.com/htadmg/dashboard_com_dash.git
+```
+- Usando SSH:
+```bash
+git clone git@github.com:htadmg/projeto_streamilt_dash.git
+```
+- Navegue até o diretório do projeto:
+```bash
+cd .\projeto_streamilt_dash
+```
+
 
