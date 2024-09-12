@@ -54,7 +54,7 @@ cd .\projeto_streamilt_dash
 python -m venv .venv
 source venv/bin/activate
 ```
-
+ 
 - **Para Windows:**
 ```powershell
 python -m venv .venv
