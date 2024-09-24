@@ -21,8 +21,7 @@ Este projeto é um **Dashboard de Vendas** desenvolvido com **Streamlit**, **Pyt
 
 Para executar este projeto localmente, siga os passos abaixo:
 
-1. Clone o repositório:
-2. 
+1. **Clone o repositório:**
 - Usando HTTPS:
 ```bash
 git clone https://github.com/htadmg/projeto_streamilt_dash.git
