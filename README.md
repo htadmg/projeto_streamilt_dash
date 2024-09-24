@@ -17,17 +17,6 @@ Este projeto é um **Dashboard de Vendas** desenvolvido com **Streamlit**, **Pyt
 - **Pandas**: Utilizada para manipulação de dados e agrupamento de informações.
 - **JSON**: Utilizado para carregar o conjunto de dados inicial.
 
-## Estrutura do Projeto
-```
-├── app.py              # Arquivo principal da aplicação
-├── dataset.py          # Manipulação do dataset
-├── graficos.py         # Configuração dos gráficos
-├── utils.py            # Funções utilitárias
-├── dados/              # Pasta com os dados (vendas.json)
-├── requirements.txt    # Dependências do projeto
-└── README.md           # Este arquivo
-```
-
 ## Como Configurar o Projeto
 
 Para executar este projeto localmente, siga os passos abaixo:
